@@ -1,3 +1,5 @@
 # pulsmetr_arduino
-## апролдждлорпавывапролдлорпа
-* deftgyhujikijuyhgtfrdeswq
+
+## Description
+
+Этот проект по созданию пульсометра на ардуино для зимней школы Силаэдр.
